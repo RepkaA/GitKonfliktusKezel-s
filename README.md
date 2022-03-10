@@ -1,0 +1,1 @@
+# GitKonfliktusKezel-s
